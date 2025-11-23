@@ -1,0 +1,375 @@
+/* ===== GENERAL RESET ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+    font-family: 'christmas', cursive;
+  background:#966441;
+  min-height: 100vh;
+  color: #fff;
+  overflow-x: hidden;
+  padding-bottom: 180px;
+}
+
+/* ===== HEADER ===== */
+.header {
+  position:sticky;
+  top:0;
+  z-index: 10;
+  background-color: #966441;
+  padding: 20px;
+}
+
+.menu-icon {
+  font-size: 32px;
+  cursor: pointer;
+  background: #e0dfdf;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.menu-icon:hover {
+  transform: rotate(90deg) scale(1.1);
+   background: #e0dfdf;
+  color: #d59257;
+   cursor: pointer;
+}
+
+/* ===== MENU BOX ===== */
+.menu-box {
+  position: fixed;
+  top: 10px;
+  right: -280px;
+   background: #e0dfdf;
+padding: 15px 30px;
+ 
+  
+  border-radius:30px;
+  box-shadow: 8px 8px 25px rgba(0, 0, 0, 0.5);
+ display: flex;
+  gap:20px;
+   transition: 0.4s ease;
+  
+}
+
+.menu-box.show {
+  left: 40px;
+  width: 300px;
+  
+  margin-left: 30px;
+  background: #e0dfdf;
+}
+
+.menu-box a {
+      text-decoration: none;
+  color: #333;
+    font-family: 'christmas', cursive;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  
+}
+
+.menu-box a:hover {
+ font-size: 30px;
+   color: #d59257;
+
+}
+
+/* ===== LYRICS CONTAINER ===== */
+.lyrics-container {
+ background-color:  #9c6d4d;
+    border-radius: 30px;
+    padding: 30px 30px 50px;
+    padding-bottom: 200px;
+    height: 600px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+    font-family: 'christmas', cursive;
+    margin-top: -50px;
+   margin-left: 50px;
+   margin-right: 50px;
+   margin-bottom: 20px;
+   min-height: calc(100vh-110px);
+}
+
+.lyrics-container h2 {
+margin-top: 40px;
+  color: white;
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 1.8em;
+  letter-spacing: 2px;
+  animation: fadeInDown 0.8s ease;
+  margin-bottom: fadeInDown 0.8s ease;
+}
+
+#lyricsText {
+    
+  padding: 35px;
+  border-radius: 25px;
+  color: #2c1810;
+  font-size: 1.5em;
+  line-height: 2;
+    font-family: 'christmas', cursive;
+margin-bottom: 80px;
+  white-space: pre-wrap;
+  min-height: 400px;
+  max-height: calc(100vh-400px);
+  overflow-y: auto;
+  /* box-shadow: 
+    0 15px 40px rgba(0, 0, 0, 0.5),
+    inset 0 0 20px rgba(139, 90, 60, 0.1); */
+  text-align: center;
+  animation: fadeInUp 1s ease;
+  /* border: 3px solid rgba(139, 90, 60, 0.2); */
+
+}
+
+/* Scrollbar */
+#lyricsText::-webkit-scrollbar {
+  width: 10px;
+}
+
+#lyricsText::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+#lyricsText::-webkit-scrollbar-thumb {
+   background: rgba(0,0,0,0.3);
+    border-radius: 10px;
+}
+
+#lyricsText::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #6B4A2C, #4B3A1C);
+}
+
+/* ===== AUDIO PLAYER ===== */
+#audioPlayer {
+  display: none;
+}
+
+/* ===== MUSIC PLAYER SECTION ===== */
+.musicPlayerSection {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  /* background: linear-gradient(180deg, rgba(188, 118, 72, 0), rgba(50, 30, 15, 0.98)); */
+  backdrop-filter: blur(3px);
+  padding: 25px 30px;
+  box-shadow: 
+    0 -8px 30px rgba(0, 0, 0, 0.3),
+    inset 0 2px 10px rgba(255, 107, 107, 0.1);
+  z-index: 1000;
+  /* border-top: 3px solid rgba(255, 107, 107, 0.385); */
+}
+
+.currentAndTotalTime {
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'christmas', cursive;
+}
+
+#progressBar {
+  width: 100%;
+  height: 6px;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 15px;
+  cursor: pointer;
+  margin-bottom: 25px;
+  overflow: hidden;
+  box-shadow: 
+    inset 0 2px 6px rgba(0, 0, 0, 0.4),
+    0 2px 8px rgba(0, 0, 0, 0.2);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+#currentProgress {
+  width: 0%;
+  height: 100%;
+  background: linear-gradient(90deg, #ff6b6b, #ff8e53, #ffd93d);
+  border-radius: 15px;
+  transition: width 0.1s linear;
+  box-shadow: 0 0 15px rgba(255, 107, 107, 0.7);
+  position: relative;
+}
+
+#currentProgress::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 16px;
+  height: 16px;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(255, 107, 107, 0.8);
+}
+
+.musicPlayer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 35px;
+}
+
+.controls {
+  font-size: 25px;
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
+  filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.3));
+}
+
+.controls:hover {
+  color:  #824524;
+  transform: scale(1.25);
+  filter: drop-shadow(0 0 15px  #824524);
+  text-shadow: 0 0 20px  #824524;
+}
+
+.controls:active {
+  transform: scale(1.1);
+}
+
+.playButton, 
+.pauseButton {
+  font-size: 50px;
+    color: #824524;
+}
+
+.playButton:hover,
+.pauseButton:hover {
+  color: #fff;
+  transform: scale(1.3);
+  filter: drop-shadow(0 0 20px  #824524);
+}
+
+.pauseButton {
+  display: none;
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+  .lyrics-container {
+    margin: 90px 15px 0px;
+    padding: 25px 15px 200px;
+  }
+
+  .lyrics-container h2 {
+    font-size: 2em;
+  }
+
+  #lyricsText {
+    font-size: 1.2em;
+    padding: 30px 20px;
+    line-height: 2;
+    max-height: calc(100vh-350px);
+  }
+
+
+
+  .musicPlayerSection {
+    padding: 20px 15px;
+  }
+
+  .controls {
+    font-size: 40px;
+  }
+
+  .playButton, 
+  .pauseButton {
+    font-size: 55px;
+  }
+
+  .musicPlayer {
+    gap: 30px;
+  }
+
+  .currentAndTotalTime {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .lyrics-container h2 {
+    font-size: 1.6em;
+  }
+
+  #lyricsText {
+    font-size: 1.1em;
+    padding: 25px 15px;
+  }
+
+  .controls {
+    font-size: 35px;
+  }
+
+  .playButton, 
+  .pauseButton {
+    font-size: 48px;
+  }
+
+  .musicPlayer {
+    gap: 25px;
+  }
+}
+@media (max-width: 480px) {
+  .lyrics-container {
+    padding: 20px 10px 190px;  /* ✅ */
+  }
+
+  .lyrics-container h2 {
+    font-size: 1.6em;
+  }
+
+  #lyricsText {
+    font-size: 1.1em;
+    padding: 25px 15px;
+    max-height: calc(100vh - 320px);  /* ✅ */
+  }
+}

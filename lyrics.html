@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lyrics</title>
+  <link rel="stylesheet" href="s.css">
+  <link href="https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+<div class="header">
+   <div class="menu-icon" id="menuBtn">☰</div>
+
+
+<div class="menu-box" id="menuBox">
+  <a href="index.html">Home</a>
+  <a href="song.html">Playlist</a>
+  <a href="#">Exit</a>
+</div>
+</div>
+
+<div class="lyrics-container">
+  <h2 id="songTitle">Song Title</h2>
+  <pre id="lyricsText">Select a song from playlist</pre>
+</div>
+
+<audio id="audioPlayer"></audio>
+
+<div class="musicPlayerSection">
+  <div class="currentAndTotalTime">00:00 / 00:00</div>
+  <div id="progressBar">
+    <div id="currentProgress"></div>
+  </div>
+  <div class="musicPlayer">
+    <i class="fas fa-step-backward controls previousButton"></i>
+    <i class="fas fa-play-circle controls playButton"></i>
+    <i class="far fa-pause-circle controls pauseButton"></i>
+    <i class="fas fa-step-forward controls nextButton"></i>
+  </div>
+</div>
+
+<script src="menu.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
