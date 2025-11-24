@@ -1218,23 +1218,82 @@ Thank you, Santa, thank you, thank you, Santa Claus
 ];
 const gospelSongs=[
     {
-    trackId:"music/song26.mp3",title:"",lyrics:``
+    trackId:"music/song26.mp3",title:"Oh HOly Night",lyrics:``
 },
 {
-    trackId:"music/song27.mp3",title:"",lyrics:``
+    trackId:"music/song27.mp3",title:"Mary Did You Know-",lyrics:``
 },
 {
-    trackId:"music/song28.mp3",title:"",lyrics:``
+    trackId:"music/song28.mp3",title:"The Christmas All Stars",lyrics:``
 },
 {
-    trackId:"music/song29.mp3",title:"",lyrics:``
+    trackId:"music/song29.mp3",title:"Silent Night",lyrics:``
 },
 {
-    trackId:"music/song30.mp3",title:"",lyrics:``
+    trackId:"music/song30.mp3",title:"Miss you Most At Christmas",lyrics:``
 },
 {
-    trackId:"music/song31.mp3",title:"",lyrics:``
+    trackId:"music/song31.mp3",title:"Joy to the World",lyrics:``
 },
+{
+    trackId:"music/song32.mp3",title:"Jesus Born on This Day",lyrics:``
+},
+{
+    trackId:"music/song33.mp3",title:"O come O come Emmanuel",lyrics:``
+},
+{
+    trackId:"music/song34.mp3",title:"The Christmas Song ",lyrics:``
+},
+{
+    trackId:"music/song35.mp3",title:"Little Drummer Boy",lyrics:``
+},
+{
+    trackId:"music/song36.mp3",title:"Light of the World",lyrics:``
+},
+{
+    trackId:"music/song37.mp3",title:"Jingle Bell Rock",lyrics:``
+},
+{
+    trackId:"music/song38.mp3",title:"Away in a Manger",lyrics:``
+},
+{
+    trackId:"music/song39.mp3",title:"Have Yourself a Merry Little Christmas",lyrics:``
+},
+{
+    trackId:"music/song40.mp3",title:"The First Noel",lyrics:``
+},
+{
+    trackId:"music/song41.mp3",title:"Joy to the World",lyrics:``
+},
+{
+    trackId:"music/song42.mp3",title:"Joy to the World",lyrics:``
+},
+{
+    trackId:"music/song43.mp3",title:"Joy to the World",lyrics:``
+},
+{
+    trackId:"music/song44.mp3",title:"Joy to the World",lyrics:``
+},
+{
+    trackId:"music/song45.mp3",title:"Joy to the World",lyrics:``
+},
+{
+    trackId:"music/song46.mp3",title:"Joy to the World",lyrics:``
+},
+{
+    trackId:"music/song47.mp3",title:"Joy to the World",lyrics:``
+},
+{
+    trackId:"music/song48.mp3",title:"Joy to the World",lyrics:``
+},
+{
+    trackId:"music/song49.mp3",title:"Joy to the World",lyrics:``
+},
+{
+    trackId:"music/song50.mp3",title:"Joy to the World",lyrics:``
+}
+
+
 
 ]
 
