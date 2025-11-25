@@ -1218,46 +1218,483 @@ Thank you, Santa, thank you, thank you, Santa Claus
 ];
 const gospelSongs=[
     {
-    trackId:"music/song26.mp3",title:"Oh HOly Night",lyrics:``
+    trackId:"music/song26.mp3",title:"Oh HOly Night",lyrics:`O Holy Night
+
+
+O holy night
+
+The stars are brightly shining
+
+It is the night
+
+Of our dear Saviour’s birth
+
+Long lay the world
+
+In sin and error pining
+
+‘Til He appeared
+
+And the soul felt its worth
+
+A thrill of hope
+
+The weary world rejoices
+
+For yonder breaks
+
+A new and glorious morn
+
+CHORUS 1
+Fall on your knees
+
+O hear the angel voices
+
+O night divine
+
+O night when Christ was born
+
+Truly He taught us
+
+To love one another
+
+His law is love
+
+And His gospel is peace
+
+Chains shall He break
+
+For the slave is our brother
+
+And in His Name
+
+All oppression shall cease
+
+Sweet hymns of joy
+
+In grateful chorus raise
+
+We let all within us
+
+Praise His holy Name
+
+Christ is the Lord
+
+O praise His Name forever
+
+His power and glory
+
+Evermore proclaim
+
+O night divine
+
+O night when Christ was born`
 },
 {
-    trackId:"music/song27.mp3",title:"Mary Did You Know-",lyrics:``
+    trackId:"music/song27.mp3",title:"Mary Did You Know-",lyrics:`Mary, Did You Know?
+
+Mary, did you know that your baby boy
+Would one day walk on water?
+Mary, did you know that your baby boy
+Would save our sons and daughters?
+Did you know that your baby boy
+Has come to make you new?
+This child that you delivered, will soon deliver you
+Mary, did you know that your baby boy
+Will give sight to a blind man?
+Mary, did you know that your baby boy
+Will calm the storm with his hand?
+Did you know that your baby boy
+Has walked where angels trod?
+When you kiss your little baby
+You kiss the face of God
+Mary, did you know?
+Mary, did you know?
+Mary, did you know? Did you know?
+Mary, did you know? Mary, did you know?
+Mary, did you know? Mary, did you know?
+Mary, did you know? Mary, did you know?
+The blind will see, the deaf will hear
+The dead will live again
+The lame will leap, the dumb will speak
+The praises of the Lamb
+Mary, did you know that your baby boy
+Is Lord of all creation?
+Mary, did you know that your baby boy
+Would one day rule the nations?
+Did you know that your baby boy
+Is heaven′s perfect Lamb?
+That sleeping child you're holding is the great, I Am
+Mary, did you know? (Mary, did you know?)
+Mary, did you know? (Mary, did you know?)
+Mary, did you know? Oh`
 },
 {
     trackId:"music/song28.mp3",title:"The Christmas All Stars",lyrics:``
 },
 {
-    trackId:"music/song29.mp3",title:"Silent Night",lyrics:``
+    trackId:"music/song29.mp3",title:"Silent Night",lyrics:`Silent night
+                                                                                                                                                                                                Silent night, holy night
+All is calm, all is bright
+Round yon Virgin Mother and Child
+Holy infant so tender and mild
+Sleep in heavenly peace
+Sleep in heavenly peace
+
+Silent night, holy night
+Shepherds quake at the sight
+Glories stream from heaven afar
+Heavenly hosts sing Alleluia
+Christ, the Saviour is born
+Christ, the Saviour is born
+
+Silent night, holy night
+Son of God, love’s pure light
+Radiant beams from Thy holy face
+With the dawn of redeeming grace
+Jesus, Lord, at Thy birth
+Jesus, Lord, at Thy birth
+
+Silent night, holy night
+All is calm, all is bright
+Round yon Virgin Mother and Child
+Holy infant so tender and mild
+Sleep in heavenly peace
+Sleep in heavenly peace`
 },
 {
-    trackId:"music/song30.mp3",title:"Miss you Most At Christmas",lyrics:``
+    trackId:"music/song30.mp3",title:"Miss you Most At Christmas",lyrics:`Miss You Most (at Christmas Time)
+
+Oooooooh...
+The fire is burning
+The room's all aglow
+Outside the December wind blows
+Away in the distance
+The carolers sing in the snow
+Everybody's laughing
+The world is celebrating
+And everyone's so happy
+Except for me tonight
+Because I miss you
+Most at Christmas time
+And I can't get you
+Get you off my mind
+Every other season comes along
+And I'm all right
+But then I miss you
+Most at Christmas time
+Ooh, oooh yeah
+I gaze out the window
+This cold winter's night
+At all of the twinkling lights
+Alone in the darkness
+Remembering when you were mine, yeah
+Everybody's smiling
+The whole world is rejoicing
+And everyone's embracing
+Except for you and I
+Baby, I miss you
+Most at Christmas time
+And I can't get you
+(No, no, no no)
+Get you off my mind
+Every other season comes along
+And I'm all right
+But then I miss you
+Most at Christmas time
+In the springtime
+Those memories start to fade
+With the April rain
+Through the summer days
+'Til autumn's leaves are gone
+I get by without you
+'Til the snow begins to fall
+And then I miss you
+Most at Christmas time
+And I can't get you
+No, no, no, no
+Get you off my mind
+Every other season comes along
+And I'm all right
+But then I miss you
+Most at Christmas time
+Ooooooh...`
 },
 {
-    trackId:"music/song31.mp3",title:"Joy to the World",lyrics:``
+    trackId:"music/song31.mp3",title:"Joy to the World",lyrics:`Joy to the World            
+                                                                                                                                                                                               Joy to the world! The Lord is come
+Let earth receive her King!
+Let every heart prepare Him room
+And heaven and nature sing
+And heaven and nature sing
+And heaven, and heaven and nature sing
+ 
+Joy to the world! the Savior reigns
+Let men their songs employ
+While fields and floods
+Rocks, hills and plains
+Repeat the sounding joy
+Repeat the sounding joy
+Repeat, repeat the sound joy
+ 
+No more let sins and sorrows grow
+Nor thorns infest the ground
+He comes to make
+His blessings flow
+Far as the curse is found
+Far as the curse is found
+Far as, far as the curse is found
+ 
+He rules the world with truth and grace
+And makes the nations prove
+The glories of His righteousness
+And wonders of His love
+And wonders of His love
+And wonders and wonders of His love`
 },
 {
-    trackId:"music/song32.mp3",title:"Jesus Born on This Day",lyrics:``
+    trackId:"music/song32.mp3",title:"Jesus Born on This Day",lyrics:`Jesus Born on This Day
+
+Today a child is born on earth
+(Today a child is born on earth)
+Today the glory of God shines everywhere
+For all of the world
+Oh, Jesus, born on this day
+He is our light and salvation
+Oh, Jesus, born on this day
+He is the king of all nations
+Behold the lamb of God has come
+(Behold the lamb of God has come)
+Behold the savior is born
+Sing of his love to everyone
+Oh, Jesus, born on this day
+Heavenly child in a manger
+Oh, Jesus, born on this day
+He is our Lord and our savior
+Today our hearts rejoice in him
+(Today our hearts rejoice in him)
+Today the light of his birth
+Fills us with hope and brings peace on earth
+Oh, Jesus, born on this day
+He is our light and salvation
+Oh, Jesus, born on this day
+He is the king of all nations
+Today a child is born on earth
+(Today a child is born on earth)`
 },
 {
-    trackId:"music/song33.mp3",title:"O come O come Emmanuel",lyrics:``
+    trackId:"music/song33.mp3",title:"O come O come Emmanuel",lyrics:`O Come, O Come, Emmanuel                                                                                                                                                                 
+                                                                                                                                                                                               O come, O come, Emmanuel,
+and ransom captive Israel,
+that mourns in lonely exile here
+until the Son of God appear.
+Rejoice! Rejoice!
+Emmanuel shall come to thee, O Israel.
+
+O come, O come, great Lord of might,
+who to thy tribes on Sinai's height
+in ancient times once gave the law
+in cloud and majesty and awe.
+Rejoice! Rejoice!
+Emmanuel shall come to thee, O Israel.
+
+O come, thou Dayspring, come and cheer
+our spirits by thine advent here;
+disperse the gloomy clouds of night,
+and death's dark shadows put to flight.
+Rejoice! Rejoice!
+Emmanuel shall come to thee, O Israel.
+
+O come, thou Key of David, come,
+and open wide our heavenly home;
+make safe the way that leads on high,
+and close the path to misery.
+Rejoice! Rejoice!
+Emmanuel shall come to thee, O Israel.
+
+O come, Emmanuel,
+and ransom captive Israel,
+that mourns in lonely exile here
+until the Son of God appear.
+Rejoice! Rejoice!
+Emmanuel shall come to thee, O Israel.`
 },
 {
-    trackId:"music/song34.mp3",title:"The Christmas Song ",lyrics:``
+    trackId:"music/song34.mp3",title:"The Christmas Song ",lyrics:`The Christmas Song
+
+Chestnuts roasting on an open fire
+Jack Frost nipping at your nose
+Yuletide carols being sung by a choir
+And folks dressed up like Eskimos
+Everybody knows a turkey and some mistletoe
+Help to make the season bright
+Tiny tots with their eyes all aglow
+Will find it hard to sleep tonight
+They know that Santa's on his way
+He's loaded lots of toys and goodies on his sleigh
+And every mother's child is gonna spy
+To see if reindeers really know how to fly
+And so I'm offering this simple phrase
+To kids from one to ninety-two
+Although it's been said many times, many ways
+Merry Christmas to you
+And so I'm offering this simple phrase
+To kids from one to ninety-two
+Although it's been said many times, many ways
+Merry Christmas to you`
 },
 {
-    trackId:"music/song35.mp3",title:"Little Drummer Boy",lyrics:``
+    trackId:"music/song35.mp3",title:"Little Drummer Boy",lyrics:`Little Drummer Boy  
+
+Come, they told me, pa rum pum pum pum
+A newborn King to see, pa rum pum pum pum
+Our finest gifts we bring, pa rum pum pum pum
+To lay before the King, pa rum pum pum pum
+Rum pum pum pum, rum pum pum pum.
+So to honour Him, pa rum pum pum pum
+When we come.
+
+Little baby, pa rum pum pum pum
+I am a poor boy too, pa rum pum pum pum
+I have no gift to bring, pa rum pum pum pum
+That’s fit to give a King, pa rum pum pum pum
+Rum pum pum pum, rum pum pum pum.
+Shall I play for you, pa rum pum pum pum
+On my drum?
+
+Mary nodded, pa rum pum pum pum
+The ox and lamb kept time, pa rum pum pum pum
+I played my drum for Him, pa rum pum pum pum
+I played my best for Him, pa rum pum pum pum
+Rum pum pum pum, rum pum pum pum.
+Then He smiled at me, pa rum pum pum pum,
+Me and my drum
+Me and my drum
+Me and my drum
+Me and my drum`
 },
 {
-    trackId:"music/song36.mp3",title:"Light of the World",lyrics:``
+    trackId:"music/song36.mp3",title:"Light of the World",lyrics:`Light of the World
+
+The world waits for a miracle
+The heart longs for a little bit of hope
+Oh come, oh come, Emmanuel
+A child prays for peace on Earth
+And she's calling out from a sea of hurt
+Oh come, oh come, Emmanuel
+And can you hear the angels singing
+Glory to the light of the world
+Glory, the light of the world is here
+The drought breaks with the tears of a mother
+A baby's cry is the sound of love
+Come down, come down, Emmanuel
+He is the song for the suffering
+He is Messiah, the Prince of Peace has come
+He has come, Emmanuel
+Glory to the light of the world
+Glory to the light of the world
+Glory to the light of the world
+Glory to the light of the world
+For all who wait
+For all who hunger
+For all who've prayed
+For all who wonder
+Behold your King
+Behold Messiah
+Emmanuel, Emmanuel
+Glo-glory to the light of the world
+Glory to the light of the world
+Glory to the light of the world
+Behold your King
+Behold Messiah
+Emmanuel, Emmanuel
+The world waits for the miracle
+The heart longs for a little bit of hope
+Oh come, oh come Emmanuel`
 },
 {
-    trackId:"music/song37.mp3",title:"Jingle Bell Rock",lyrics:``
+    trackId:"music/song37.mp3",title:"Jingle Bell Rock",lyrics:`Jingle bell, jingle bell, jingle bell rock
+Jingle bells swing and jingle bells ring
+Snowin' and blowin' up bushels of fun
+Now the jingle hop has begun
+Jingle bell, jingle bell, jingle bell rock
+Jingle bells chime in jingle bell time
+Dancin' and prancin' in Jingle Bell Square
+In the frosty air
+What a bright time, it's the right time
+To rock the night away
+Jingle bell time is a swell time
+To go glidin' in a one-horse sleigh
+Giddy-up jingle horse, pick up your feet
+Jingle around the clock
+Mix and a-mingle in the jinglin' feet
+That's the jingle bell rock
+Jingle bell, jingle bell, jingle bell rock
+Jingle bells chime in jingle bell time
+Dancin' and prancin' in Jingle Bell Square
+In the frosty air
+What a bright time, it's the right time
+To rock the night away
+Jingle bell time is a swell time
+To go glidin' in a one-horse sleigh
+Giddy-up jingle horse, pick up your feet
+Jingle around the clock
+Mix and a-mingle in the jinglin' feet
+That's the jingle bell
+That's the jingle bell
+That's the jingle bell rock`
 },
 {
-    trackId:"music/song38.mp3",title:"Away in a Manger",lyrics:``
+    trackId:"music/song38.mp3",title:"Away in a Manger",lyrics:`Away in a manger
+No crib for a bed
+The little Lord Jesus
+Laid down His sweet head
+The stars in the bright sky
+Looked down where He lay
+The little Lord Jesus
+Asleep on the hay
+The cattle are lowing
+The Baby awakes
+But little Lord Jesus
+No crying He makes
+I love You, Lord Jesus
+Look down from the sky
+And stay by my side
+Until morning is nigh
+Be near me, Lord Jesus
+I ask You to stay
+Close by me forever
+And love me I pray
+Bless all the dear children
+In Your tender care
+And fit us for heaven
+To live with You there`
 },
 {
-    trackId:"music/song39.mp3",title:"Have Yourself a Merry Little Christmas",lyrics:``
+    trackId:"music/song39.mp3",title:"Have Yourself a Merry Little Christmas",lyrics:`Have Yourself A Merry Little Christmas
+112.5K6
+Have yourself a merry little Christmas
+Let your heart be light
+From now on
+Our troubles will be out of sight
+Have yourself a merry little Christmas
+Make the Yule-tide gay
+From now on
+Our troubles will be miles away
+Here we are as in olden days
+Happy golden days of yore
+Faithful friends who are dear to us
+Gather near to us once more
+Through the years we all will be together
+If the fates allow
+Hang a shining star upon the highest bough
+And have yourself a merry little Christmas now
+(Instrumental)
+Through the years
+We all will be together
+If the fates allow
+So hang a shining star upon the highest bough
+And have yourself a merry little Christmas now`
 },
 {
     trackId:"music/song40.mp3",title:"The First Noel",lyrics:``
