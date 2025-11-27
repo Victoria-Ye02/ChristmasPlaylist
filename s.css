@@ -39,12 +39,12 @@ body {
   background: rgba(255, 255, 255, 0.1);
 }
 
-.menu-icon:hover {
+/* .menu-icon:hover {
   transform: rotate(90deg) scale(1.1);
    background: #e0dfdf;
   color: #d59257;
    cursor: pointer;
-}
+} */
 
 /* ===== MENU BOX ===== */
 .menu-box {

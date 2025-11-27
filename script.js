@@ -1330,7 +1330,60 @@ Mary, did you know? (Mary, did you know?)
 Mary, did you know? Oh`
 },
 {
-    trackId:"music/song28.mp3",title:"The Christmas All Stars",lyrics:``
+    trackId:"music/song28.mp3",title:"Mary's Boy Child",lyrics:`Mary's boy child, Jesus Christ, was born on Christmas Day
+And man will live forevermore because of Christmas Day
+Long time ago in Bethlehem, so the Holy Bible said
+Mary's boy child, Jesus Christ, was born on Christmas Day
+Hark, now hear the angels sing, a king was born today
+And man will live forevermore because of Christmas Day
+Mary's boy child, Jesus Christ, was born on Christmas Day
+While shepherds watch their flocks by night
+They see a bright new shining star
+They hear a choir sing a song, the music seemed to come from afar
+Hark, now hear the angels sing, a king was born today
+And man will live forevermore because of Christmas Day
+Mmh-mmh
+Mmh-hmm
+Mmh-mmh
+Mmh-mmh-hmm
+Mmh-mmh-mmh-hmm
+Mmh-hmm-mmh-mmh
+For a moment the world was aglow, all the bells rang out
+There were tears of joy and laughter, people shouted
+"Let everyone know, there is hope for all to find peace"
+Oh my Lord
+You sent Your son to save us
+Oh my Lord
+Your very self You gave us
+Oh my Lord
+That sin may not enslave us
+And love may reign once more
+Oh my Lord
+When in the crib they found Him
+Oh my Lord
+A golden halo crowned Him
+Oh my Lord
+They gathered all around Him
+To see Him and adore (this day will live forever)
+Oh my Lord (so praise the Lord)
+They had become to doubt You
+Oh my Lord (He is the truth forever)
+What did they know about You?
+Oh my Lord (so praise the Lord)
+But they were lost without You
+They needed You so bad (His light is shining on us)
+Oh my Lord (so praise the Lord)
+With the child's adoration
+Oh my lord (He is a personation)
+There came great jubilation
+Oh my Lord (so praise the Lord)
+And full of admiration
+They realized what they had (until the sun falls from the sky)
+Oh my Lord (oh praise the Lord)
+You sent Your son to save us
+Oh my Lord (this day will live forever)
+Your very self You gave us
+Oh my Lord (so praise the Lord)`
 },
 {
     trackId:"music/song29.mp3",title:"Silent Night",lyrics:`Silent night
@@ -1697,37 +1750,348 @@ So hang a shining star upon the highest bough
 And have yourself a merry little Christmas now`
 },
 {
-    trackId:"music/song40.mp3",title:"The First Noel",lyrics:``
+    trackId:"music/song40.mp3",title:"The First Noel",lyrics:`Noel, Noel
+Noel, Noel
+The First Noel, the Angels did say
+Was to certain poor shepherds in fields as they lay
+In fields where they lay keeping their sheep
+On a cold winter's night that was so deep
+Noel, Noel, Noel, Noel
+Born is the King of Israel!
+Noel, Noel
+Noel, Noel
+They looked up and saw a star
+Shining in the East beyond them far
+And to the earth it gave great light
+And so it continued both day and night
+Noel, Noel
+Noel, Noel
+Noel, Noel
+Noel, Noel
+Noel, Noel
+Noel, Noel
+Born is the King of Israel!
+Noel, Noel, Noel, Noel
+Born is the King of Israel!
+Born is the King of Israel!
+Noel, Noel
+Noel, Noel`
 },
 {
-    trackId:"music/song41.mp3",title:"Joy to the World",lyrics:``
+    trackId:"music/song41.mp3",title:"Wintersong",lyrics:`The lake is frozen over
+Trees are white with snow
+And all-around reminders of you
+Are everywhere I go
+It's late and morning's in no hurry
+But sleep won't set me free (won't set me free)
+I lie awake and try to recall
+How your body felt beside me
+When silence gets too hard to handle
+And the night too long
+And this is how I see you
+In the snow on Christmas morning
+Love and happiness surround you
+As you throw your arms up to the sky
+I keep this moment by and by
+Oh, I miss you now, my love
+Merry Christmas, Merry Christmas
+Merry Christmas, my love
+Sense of joy fills the air
+And I daydream and I stare
+Up at the tree and I see your star
+(Up at the tree and I see your star)
+Up at the tree and I see your star up there
+And this is how I see you
+In the snow on Christmas morning
+Love and happiness surround you
+As you throw your arms up to the sky
+I keep this moment by and by
+I keep this moment by and by
+I keep this moment by and by
+I keep this moment by and by
+`
 },
 {
-    trackId:"music/song42.mp3",title:"Joy to the World",lyrics:``
+    trackId:"music/song42.mp3",title:"O little Town of Bethehem",lyrics:`1.
+O little town of Bethlehem
+
+How still we see thee lie
+
+Above thy deep and dreamless sleep
+
+The silent stars go by
+
+Yet in the dark streets shineth
+
+The everlasting light
+
+The hopes and fears of all the years
+
+Are met in thee tonight
+
+2.
+For Christ is born of Mary
+
+And gathered all above
+
+While mortals sleep, the angels keep
+
+Their watch of wondering love
+
+Oh, morning stars, together
+
+Proclaim thy holy birth
+
+And praises sing to God the king
+
+And peace to men on earth
+
+3.
+How silently, how silently
+
+The wondrous gift is giv’n
+
+So God imparts to human hearts
+
+The blessings of his heav’n
+
+No ear may hear his coming
+
+But in this world of sin
+
+Where meek souls will receive him still
+
+The dear Christ enters in`
 },
 {
-    trackId:"music/song43.mp3",title:"Joy to the World",lyrics:``
+    trackId:"music/song43.mp3",title:"The King Has Come",lyrics:`그 맑고 환한 밤중에 뭇 천사 내려와
+그 손에 비파 들고서 다 찬송하기를
+왕이 오셨네 다 평안하여라
+온 세상이 다 고요하도다
+뭇 천사 날개 펴고서 이 땅에 내려와
+그때에 부른 노래가 또다시 들리니
+왕이 오셨네 큰 위로 넘치네
+온 세상이 다 찬송하도다
+이 땅을 구원하실 왕 우리를 다스리실 왕
+영광의 주 앞에 나아와 다 선포하여라
+왕이 오셨네 거룩하신 예수
+천군 천사 다 경배하도다
+왕이 오셨네 거룩하신 예수
+천군 천사 다 경배하도다
+다 경배하도다
+다 경배하도다
+`
 },
 {
-    trackId:"music/song44.mp3",title:"Joy to the World",lyrics:``
+    trackId:"music/song44.mp3",title:"O Come O Come Emmanel",lyrics:`O come, O come, Emmanuel,
+And ransom captive Israel,
+That mourns in lonely exile here,
+Until the Son of God appear.
+Rejoice! Rejoice! Emmanuel
+Shall come to thee, O Israel.
+
+O come, Thou Rod of Jesse, free
+Thine own from Satan's tyranny;
+From depths of hell Thy people save,
+And give them victory o'er the grave.
+Rejoice! Rejoice! Emmanuel
+Shall come to thee, O Israel.
+O come, Thou Dayspring, from on high,
+And cheer us by Thy drawing nigh;
+Disperse the gloomy clouds of night,
+And death's dark shadows put to flight.
+Rejoice! Rejoice! Emmanuel
+Shall come to thee, O Israel.
+
+O come, Thou Key of David, come
+And open wide our heav'nly home;
+Make safe the way that leads on high,
+And close the path to misery.
+Rejoice! Rejoice! Emmanuel
+Shall come to thee, O Israel.
+
+O come, Adonai, Lord of might,
+Who to Thy tribes, on Sinai's height,
+In ancient times didst give the law
+In cloud and majesty and awe.
+Rejoice! Rejoice! Emmanuel
+Shall come to thee, O Israel.
+
+`
 },
 {
-    trackId:"music/song45.mp3",title:"Joy to the World",lyrics:``
+    trackId:"music/song45.mp3",title:"Joy to the World",lyrics:`
+    기쁘다 구주 오셨네
+만백성 맞아라
+온 교회여 다 일어나
+다 찬양하여라
+다 찬양하여라
+다 찬양 찬양 하여라
+
+2. 구세주 탄생 했으니
+다 찬양 하여라
+이 세상의 만물들아
+다 화답하여라
+다 화답하여라
+다 화답 화답하여라
+
+3. 온 세상 죄를 사하러
+주 예수 오셨네
+죄와 슬픔 몰아내고
+다 구원하시네
+다 구원하시네
+다 구원 구원 하시네
+
+4. 은혜와 진리 되신 주
+다 주관하시니
+만국 백성 구주 앞에
+다 경배하여라
+다 경배하여라
+다 경배 경배 하여라
+아멘`
 },
 {
-    trackId:"music/song46.mp3",title:"Joy to the World",lyrics:``
+    trackId:"music/song46.mp3",title:"O holy Night",lyrics:`거룩한 밤 별빛이 찬란한데
+거룩하신 우리 주 나셨네
+오랫동안 죄악에 얽매여서
+헤매던 죄인 위해 오셨네
+우리를 위해 속죄하시려는
+영광의 아침 동이 터온다
+경배하라 천사의 기쁜 소리
+오 거룩한 밤 구주가 나신 밤
+오 거룩한 밤 거룩 거룩한 밤
+
+동방박사 그 별의 인도 따라
+주님 나신 구유를 찾았네
+우리들도 신앙의 불빛 따라
+사랑의 주 품 안에 안기세
+만왕의 왕이 구유 안에 누워
+우리의 친구 되려 하시네
+경배하라 천사의 기쁜 소리
+오 거룩한 밤 구주가 나신 밤
+오 거룩한 밤 거룩 거룩한 밤`
 },
 {
-    trackId:"music/song47.mp3",title:"Joy to the World",lyrics:``
+    trackId:"music/song47.mp3",title:"We Wish You a Merry Christmas",lyrics:`
+We wish you a Merry Christmas,
+
+We wish you a Merry Christmas,
+
+We wish you a Merry Christmas, and a Happy New Year!
+
+Good tidings we bring to you and your kin,
+
+We wish you a Merry Christmas and a Happy New Year!
+
+
+
+So bring us some figgy pudding,
+
+So bring us some figgy pudding,
+
+So bring us some figgy pudding, and a cup of good cheer!
+
+Good tidings we bring to you and your kin,
+
+We wish you a Merry Christmas and a Happy New Year!
+
+
+
+We won't go until we've got some,
+
+We won't go until we've got some,
+
+We won't go until we've got some, so bring some out here!
+
+Good tidings we bring to you and your kin,
+
+We wish you a Merry Christmas and a Happy New Year!
+
+We wish you a Merry Christmas and a Happy New Year!`
 },
 {
-    trackId:"music/song48.mp3",title:"Joy to the World",lyrics:``
+    trackId:"music/song48.mp3",title:"Frosty the Snowman",lyrics:`
+Frosty the snowman was a jolly happy soul
+With corn cob pipe and a button nose
+And two eyes made out of coal
+
+Frosty the snowman is a fairy tale they say
+He was made of snow
+But the children know how he came to life one day
+
+There must have been some magic in
+That old silk cap they found
+For when they placed it on his head
+He began to dance around
+
+Frosty the snowman was alive as he could be
+And the children say he could laugh and play
+Just the same as you and me
+
+Frosty the snowman knew the snow was hot that day
+So he said lets run and have some fun
+Now before I melt away
+
+Down to the village with a broom stick in his hand
+Running here and there all around the square
+Saying catch me if you can
+
+He led them down the streets of town
+Right to the traffic cop
+And he only paused a moment when
+He heard him holler stop
+
+Frosty the snowman had to hurry on this way
+But he waved goodbye saying don’t you cry
+I’ll be back again some day
+
+`
 },
 {
-    trackId:"music/song49.mp3",title:"Joy to the World",lyrics:``
+    trackId:"music/song49.mp3",title:"Angels Time",lyrics:`In this angel time of year
+There are angels gathered near
+Wings to fly and dry each tear
+In this angel time of year
+Through the touch of angels then
+Broken hearts made whole again
+Grace to take the place of fear
+In this angel time of year
+Underneath this perfect tree
+Gifts are wrapped so carefully
+Still we wonder can we see
+The meaning of it all
+High above these festive streets
+Listen as the word repeats
+Glory hallelujah
+Wings to catch you when you fall
+If you′re lost and full of fear
+Fragile hope will soon appear
+Faith and love will find you here
+Hark the herald time
+Christmas carols chime
+In this angel time of year`
 },
 {
-    trackId:"music/song50.mp3",title:"Joy to the World",lyrics:``
+    trackId:"music/song50.mp3",title:"It Camp Upon the Midnight",lyrics:`1. 그 맑고 환한 밤중에 뭇 천사 내려와
+그 손에 비파 들고서 다 찬송하기를
+평강의 왕이 오시니 다 평안하여라
+그 소란하던 세상이 다 고요하도다
+
+2. 뭇 천사 날개 펴고서 이 땅에 내려와
+그때에 부른 노래가 또다시 들리니
+이 슬픔 많은 세상에 큰 위로 넘치고
+온 세상 기뻐 뛰놀며 다 찬송하도다
+
+3. 이 괴롬 많은 세상에 짐 지고 가는 자
+그 험산 준령 넘느라 온몸이 곤하나
+이 죄악 세상 살 동안 새 소망 가지고
+저 천사 기쁜 찬송을 들으며 쉬어라
+
+4. 옛 선지 예언 응하여 베들레헴 성에
+주 예수 탄생하시니 온 세상 구주라
+저 천사 기쁜 노래를 또다시 부르니
+온 세상 사는 사람들 다 화답하도다
+`
 }
 
 
